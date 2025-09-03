@@ -1,0 +1,14 @@
+.canvas {
+  border: 1px solid black;
+  margin: 40px auto;
+  position: relative;
+  background: #fff;
+  overflow: hidden;
+}
+
+.bar {
+  background-color: rgba(144, 238, 144, 0.7);
+  border: 1px solid red;
+  border-radius: 6px;
+  cursor: move;
+}
